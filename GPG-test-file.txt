@@ -1,0 +1,2 @@
+GPG test file
+update2
